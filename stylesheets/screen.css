@@ -273,6 +273,12 @@ section#main_content {
   min-height:185px;
 }
 
+p.subscription {
+  font-weight: bolder;
+  font-size: 21px;
+  text-align:center;
+}
+
 /* footer */
 
 footer {
